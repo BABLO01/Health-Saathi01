@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Health Saathi Dashboard"},{"path":"/records","title":"Health Records"},{"path":"/medicines","title":"Medicines"},{"path":"/appointments","title":"Appointments"},{"path":"/notes","title":"Health Notes"},{"path":"/settings","title":"Settings"}]}
